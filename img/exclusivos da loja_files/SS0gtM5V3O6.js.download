@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("EntityQualityGroupQualityRoot.entrypoint",["EntityQualityRootQuery$Parameters","JSResourceForInteraction","WebPixelRatio","buildCometGroupAdminToolsPageRoute.entrypoint"],(function(a,b,c,d,e,f,g){"use strict";a=c("buildCometGroupAdminToolsPageRoute.entrypoint")(c("JSResourceForInteraction")("EntityQualityRoot.react").__setRef("EntityQualityGroupQualityRoot.entrypoint"),function(a){a=a.routeProps.groupID;return{queries:{queryReference:{parameters:b("EntityQualityRootQuery$Parameters"),variables:{entityID:a,scale:d("WebPixelRatio").get()}}}}});g["default"]=a}),98);
+__d("CometGroupRulesContentQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7599772063427898"}),null);
+__d("CometGroupRulesRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4935151163206074"}),null);
+__d("GroupsCometChatsThreadNotificationSettingsDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="8308904855816225"}),null);
